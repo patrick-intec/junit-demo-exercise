@@ -16,4 +16,12 @@ public class FizzBuzzLogic {
 
         return "" + input;
     }
+
+    /*
+     * An input has a certain output...
+     * Test >>> we testen of de methode/klasse werkt zoals verwacht voor alle scenarios, eigenlijk
+     * willen we testen voor ALLE mogelijk inputs... But that's not really doable...
+     *
+     *
+     */
 }

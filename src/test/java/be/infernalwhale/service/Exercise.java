@@ -15,5 +15,13 @@ package be.infernalwhale.service;
  * 3. Also write tests for the classes you use.
  */
 
+/**
+ * Welke testen wil je schrijven??
+ * Wat moet je testen om een goeie test suite/test coverage
+ *
+ *
+ *
+ */
+
 public class Exercise {
 }
